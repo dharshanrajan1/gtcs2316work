@@ -1,0 +1,20 @@
+Name	Type	Origin	Flavor	Texture	Aging	Recommended Pairing
+Cheddar	Hard	England	Sharp	Smooth	6 months to several years	Apple slices and crusty bread
+Brie	Soft	France	Mild	Creamy	2 weeks to 2 months	Fresh fruits and baguette
+Gouda	Semi-hard	Netherlands	Mild	Nutty	2 months to 2 years	Grainy mustard and dried fruits
+Parmesan	Hard	Italy	Savory	Granular	1 to 3 years	Balsamic vinegar and olives
+Blue Cheese	Soft	Various	Strong	Crumbly	2 to 4 months	Walnuts and honey
+Mozzarella	Soft	Italy	Mild	Stretchy	Fresh	Olives and tomatoes
+Swiss	Hard	Switzerland	Nutty	Firm	3 to 4 months	Mustard and rye bread
+Camembert	Soft	France	Mild	Creamy	3 weeks to 3 months	Almonds and fresh berries
+Feta	Soft	Greece	Salty	Crumbly	2 to 3 months	Olive oil and cucumbers
+Gorgonzola	Blue	Italy	Sharp	Creamy	3 to 4 months	Pears and honey
+Gruyère	Hard	Switzerland	Nutty	Firm	5 to 12 months	Apples and cured meats
+Roquefort	Blue	France	Strong	Crumbly	3 to 5 months	Walnuts and figs
+Provolone	Semi-hard	Italy	Mild	Smooth	2 months to 2 years	Salami and roasted red peppers
+Havarti	Semi-soft	Denmark	Mild	Buttery	3 months to 1 year	Dark chocolate and grapes
+Monterey Jack	Semi-hard	United States	Mild	Buttery	1 to 6 months	Salsa and avocado
+Colby	Hard	United States	Mild	Smooth	1 to 3 months	Grilled cheese sandwiches and crackers
+Emmental	Hard	Switzerland	Mild	Nutty	4 to 14 months	Dark bread and pickles
+Limburger	Soft	Germany	Strong	Sticky	3 to 6 months	Dark bread and onions
+Mascarpone	Soft	Italy	Mild	Creamy	Fresh	Espresso and berries

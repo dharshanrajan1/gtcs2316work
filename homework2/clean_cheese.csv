@@ -1,0 +1,74 @@
+type,sat_fat,polysat_fat,monosat_fat,protein,carb,chol,fiber,kcal
+gruyere,18.91,1.73,10.04,29.81,0.36,110.0,None,413.0
+cheddar,21.09,0.94,9.39,24.9,1.28,105.0,None,403.0
+port de salut,16.69,0.73,9.34,23.78,0.57,123.0,None,352.0
+colby,20.22,0.95,9.28,23.76,2.57,95.0,None,394.0
+"low-sodium,cheddar or colby",20.77,0.97,9.19,24.35,1.91,100.0,None,398.0
+"american, past process",19.69,0.99,8.95,22.15,1.6,94.0,None,375.0
+"american, past process",19.69,0.99,8.95,22.15,1.6,94.0,None,375.0
+"pimento, past process",19.66,0.99,8.94,22.13,1.73,94.0,0.1,375.0
+"cheddar or american,lo na, past process",19.65,0.99,8.93,22.2,1.6,94.0,None,375.0
+monterey,19.07,0.9,8.75,24.48,0.68,89.0,None,373.0
+"parmesan,shredded",17.37,0.66,8.73,37.86,3.41,72.0,None,415.0
+"parmesan,lo na",19.05,0.66,8.72,41.6,3.7,79.0,None,456.0
+muenster,19.11,0.66,8.71,23.41,1.12,96.0,None,368.0
+fontina,19.2,1.65,8.69,25.6,1.55,116.0,None,389.0
+cheshire,19.48,0.87,8.67,23.37,4.78,103.0,None,387.0
+cream,19.29,1.44,8.62,5.93,4.07,110.0,None,342.0
+limburger,16.75,0.49,8.61,20.05,0.49,90.0,None,327.0
+brick,18.76,0.78,8.6,23.24,2.79,94.0,None,371.0
+"mexican,queso anejo",19.03,0.9,8.53,21.44,4.63,105.0,None,373.0
+roquefort,19.26,1.32,8.47,21.54,2.0,90.0,None,369.0
+"mexican,queso chihuahua",18.84,0.89,8.44,21.56,5.56,105.0,None,374.0
+"parmesan,grated",17.3,1.17,8.38,38.46,4.06,88.0,None,431.0
+caraway,18.58,0.83,8.28,25.18,3.06,93.0,None,376.0
+edam,17.57,0.67,8.12,24.99,1.43,89.0,None,357.0
+"goat,hard type",24.61,0.84,8.12,30.52,2.17,105.0,None,452.0
+"mexican,queso asadero",17.94,0.85,8.04,22.6,2.87,105.0,None,356.0
+brie,17.41,0.83,8.01,20.75,0.45,100.0,None,334.0
+gjetost,19.16,0.94,7.88,9.65,42.65,94.0,None,466.0
+romano,17.11,0.59,7.84,31.8,3.63,104.0,None,387.0
+blue,18.67,0.8,7.78,21.4,2.34,75.0,None,353.0
+gouda,17.61,0.66,7.75,24.94,2.22,114.0,None,356.0
+"parmesan,hard",16.41,0.57,7.51,35.75,3.22,68.0,None,392.0
+provolone,17.08,0.77,7.39,25.58,2.14,69.0,None,351.0
+swiss,17.78,0.97,7.27,26.93,5.38,92.0,None,380.0
+"swiss,low sodium",17.74,0.97,7.26,28.4,3.4,92.0,None,376.0
+tilsit,16.77,0.72,7.14,24.41,1.88,102.0,None,340.0
+"swiss, past process",16.05,0.62,7.05,24.73,2.1,85.0,None,334.0
+"swiss, past process",16.05,0.62,7.05,24.73,2.1,85.0,None,334.0
+"mozzarella,whl milk,lo moist",15.56,0.78,7.03,21.6,2.47,89.0,None,318.0
+camembert,15.26,0.72,7.02,19.8,0.46,72.0,None,300.0
+"goat,semisoft type",20.64,0.71,6.81,21.58,2.54,79.0,None,364.0
+"mozzarella,whl milk",13.15,0.77,6.57,22.17,2.19,79.0,None,300.0
+"parmesan,dry grated,red fat",13.32,0.46,6.1,20.0,1.37,88.0,None,265.0
+neufchatel,12.79,0.97,5.78,9.15,3.59,74.0,None,253.0
+"mozzarella,part skim milk,lo moist",12.67,0.63,5.73,25.96,3.83,54.0,None,302.0
+"monterey,low fat",14.04,0.84,5.64,28.2,0.7,65.0,None,313.0
+"muenster,low fat",10.95,0.65,5.09,24.7,3.5,63.0,None,274.0
+"mexican,blend,red fat",11.58,0.75,5.02,24.69,3.41,62.0,None,282.0
+"provolone,red fat",11.3,0.51,4.89,24.7,3.5,55.0,None,274.0
+"mozzarella,lo na",10.87,0.51,4.84,27.5,3.1,54.0,None,280.0
+"goat,soft type",14.57,0.5,4.81,18.52,0.89,46.0,None,268.0
+feta,14.95,0.59,4.62,14.21,4.09,89.0,None,264.0
+"mozzarella,part skim milk",10.11,0.47,4.51,24.26,2.77,64.0,None,254.0
+"american cheddar,imitn",8.79,0.41,4.1,16.7,11.6,36.0,None,239.0
+"cream,low fat",9.1,0.66,4.0,7.85,8.13,54.0,None,201.0
+"ricotta,whole milk",8.29,0.39,3.63,11.26,3.04,51.0,None,174.0
+"ricotta,part skim milk",4.93,0.26,2.31,11.39,5.14,31.0,None,138.0
+"lofat,cheddar or colby",4.34,0.22,2.08,24.35,1.91,21.0,None,173.0
+"american,lofat, past process",4.41,0.22,2.0,24.6,3.5,35.0,None,180.0
+"swiss,lofat, past process",3.3,0.18,1.35,25.5,4.3,35.0,None,170.0
+"swiss,low fat",3.3,0.18,1.35,28.4,3.4,35.0,None,179.0
+"cottage,w/veg",2.65,0.14,1.19,10.9,3.0,14.0,0.1,95.0
+"cottage,crmd,w/fruit",2.31,0.12,1.04,10.69,4.61,13.0,0.2,97.0
+"cottage,crmd,lrg or sml curd",1.72,0.12,0.78,11.12,3.38,17.0,None,98.0
+"cottage,lowfat,2% milkfat",0.98,0.07,0.44,11.83,3.66,10.0,None,86.0
+"cottage,lowfat,1% milkfat",0.65,0.03,0.29,12.39,2.72,4.0,None,72.0
+"cottage,lowfat,1% milkfat,lactose red",0.64,0.03,0.29,12.4,3.2,4.0,0.6,74.0
+"cottage,lowfat,1% milkfat,no na",0.63,0.03,0.28,12.4,2.7,4.0,None,72.0
+"cottage,lowfat,1% milkfat,w/veg",0.62,0.04,0.28,10.9,3.0,3.0,None,67.0
+"cream,fat free",0.64,0.06,0.25,15.69,7.66,12.0,None,105.0
+"cheddar or american,fat-free, past process",0.5,0.03,0.23,22.5,13.4,11.0,None,148.0
+"cottage,nonfat,uncrmd,dry,lrg or sml curd",0.17,0.0,0.08,10.34,6.66,7.0,None,72.0
+"mozzarella,non-fat",0.0,0.0,0.0,31.7,3.5,18.0,1.8,149.0
